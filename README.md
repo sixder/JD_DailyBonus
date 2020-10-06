@@ -9,4 +9,4 @@
 * fork或者下载并上传至自己的GitHub账号中
 * 在自己的仓库中的Settings->Secrets中，新建一个secrets，并命名为COOKIE
 
-运行时间默认为凌晨1点，需要修改时间可修改，.github/workflows/main.yml中的cron
+运行时间默认为凌晨0点1分，需要修改时间可修改，.github/workflows/main.yml中的cron
