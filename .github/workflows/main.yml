@@ -2,7 +2,7 @@ name: daily_bonus
 
 on:
   schedule:
-    - cron: '1 0 * * *'
+    - cron: '1 8 * * *'
   workflow_dispatch:
 jobs:
   main:
